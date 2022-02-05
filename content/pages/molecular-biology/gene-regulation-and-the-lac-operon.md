@@ -11,7 +11,29 @@ uid: b312d8ee-70ad-db9a-2f22-34a16a004e3f
 Session Overview
 ----------------
 
-| ![Molecbio_sess5.jpg]({{< resource_file d0ea327b-2f9c-48f9-65e8-58df0d863ea0 >}}) |  {{< br >}}{{< br >}} Cells with the same DNA can look and function differently from each other; consider a photoreceptor cell and muscle cell. The difference between these two cells is the result of differential gene expression. Some genes are transcribed and translated in all cells at about the same level, but other genes may be expressed in one cell type but not another. This session will briefly outline some general principles of gene regulation. In addition, a specific example of gene regulation in bacteria will be presented in detail. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To recall and understand the different mechanisms working together to regulate the Lac operon_.{{< br >}}*   _To distinguish positive and negative regulatory mechanisms._{{< br >}}*   _To predict the phenotype caused by different mutations within the Lac operon_.{{< br >}}*   _To justify the benefit to an organism of regulating genes._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Molecbio_sess5.jpg]({{< resource_file d0ea327b-2f9c-48f9-65e8-58df0d863ea0 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cells with the same DNA can look and function differently from each other; consider a photoreceptor cell and muscle cell. The difference between these two cells is the result of differential gene expression. Some genes are transcribed and translated in all cells at about the same level, but other genes may be expressed in one cell type but not another. This session will briefly outline some general principles of gene regulation. In addition, a specific example of gene regulation in bacteria will be presented in detail.
+
+_Learning Objectives_
+
+*   _To recall and understand the different mechanisms working together to regulate the Lac operon_.
+*   _To distinguish positive and negative regulatory mechanisms._
+*   _To predict the phenotype caused by different mutations within the Lac operon_.
+*   _To justify the benefit to an organism of regulating genes._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

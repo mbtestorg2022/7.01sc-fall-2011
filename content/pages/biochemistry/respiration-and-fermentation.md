@@ -11,7 +11,30 @@ uid: 3998b78c-9a61-3c82-442f-d3aae9f91274
 Session Overview
 ----------------
 
-| ![Biochem_sess6.jpg]({{< resource_file 4ea1e58c-af3e-42d8-0d3c-d2b910f30596 >}}) |  {{< br >}}{{< br >}} This session will outline the cellular mechanisms for harvesting energy from glucose and related sugars. It will briefly outline glycolysis as a mechanism to generate ATP and discuss the fate of the pyruvate produced in glycolysis under anaerobic and aerobic conditions. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To understand how cells harvest chemical energy by oxidizing glucose to pyruvate._{{< br >}}*   _To know the different ways that pyruvuate is catabolized based upon the presence and absence of oxygen._{{< br >}}*   _To understand what fermentation is, when it occurs, and why it is important._{{< br >}}*   _To understand what the Citric acid cycle is, when it occurs, and why it is important._{{< br >}}*   _To understand what Oxidative Phosphorylation is, when it occurs, and why it is important._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Biochem_sess6.jpg]({{< resource_file 4ea1e58c-af3e-42d8-0d3c-d2b910f30596 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will outline the cellular mechanisms for harvesting energy from glucose and related sugars. It will briefly outline glycolysis as a mechanism to generate ATP and discuss the fate of the pyruvate produced in glycolysis under anaerobic and aerobic conditions.
+
+_Learning Objectives_
+
+*   _To understand how cells harvest chemical energy by oxidizing glucose to pyruvate._
+*   _To know the different ways that pyruvuate is catabolized based upon the presence and absence of oxygen._
+*   _To understand what fermentation is, when it occurs, and why it is important._
+*   _To understand what the Citric acid cycle is, when it occurs, and why it is important._
+*   _To understand what Oxidative Phosphorylation is, when it occurs, and why it is important._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

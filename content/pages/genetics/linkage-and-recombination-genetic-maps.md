@@ -11,7 +11,30 @@ uid: 06e0b88b-6715-9f8b-06c3-dbe3474bcaed
 Session Overview
 ----------------
 
-| ![Genetics_sess_2.jpg]({{< resource_file 101e82a6-4d0a-1dfd-4ae0-49f232c0c86e >}}) |  {{< br >}}{{< br >}} This session will explain why inheritance does not always follow Mendel's rules, or the rules predicted for the chromosome theory of inheritance. Because thousands of different genes are found along a single chromosome, and only one of the pair of chromosomes found in the parent is passed to the offspring, Mendel's law of independent assortment cannot apply to all genes. Because homologous chromosomes can exchange DNA, resulting in recombination, alleles of genes found on the same chromosome in the parent are not necessarily inherited together. Thus the pattern of inheritance depends upon the location of the genes studied with respect to one another. Mating experiments can be used to map the relative distance between linked genes. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To understand why Mendel's laws of inheritance do not apply to linked genes._{{< br >}}*   _To understand the linear arrangement of genes along a chromosome._{{< br >}}*   _To understand how meiosis and crossing over results in recombinant gametes._{{< br >}}*   _To predict the outcome of genetic crosses involving one, two or three linked genes._{{< br >}}*   _To draw a simple genetic map based upon data from test crosses._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Genetics_sess_2.jpg]({{< resource_file 101e82a6-4d0a-1dfd-4ae0-49f232c0c86e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will explain why inheritance does not always follow Mendel's rules, or the rules predicted for the chromosome theory of inheritance. Because thousands of different genes are found along a single chromosome, and only one of the pair of chromosomes found in the parent is passed to the offspring, Mendel's law of independent assortment cannot apply to all genes. Because homologous chromosomes can exchange DNA, resulting in recombination, alleles of genes found on the same chromosome in the parent are not necessarily inherited together. Thus the pattern of inheritance depends upon the location of the genes studied with respect to one another. Mating experiments can be used to map the relative distance between linked genes.
+
+_Learning Objectives_
+
+*   _To understand why Mendel's laws of inheritance do not apply to linked genes._
+*   _To understand the linear arrangement of genes along a chromosome._
+*   _To understand how meiosis and crossing over results in recombinant gametes._
+*   _To predict the outcome of genetic crosses involving one, two or three linked genes._
+*   _To draw a simple genetic map based upon data from test crosses._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

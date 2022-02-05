@@ -11,7 +11,30 @@ uid: 95026c63-e557-0d98-9ab2-ebdcc99b4dfd
 Session Overview
 ----------------
 
-| ![Molecbio_sess1.jpg]({{< resource_file c7c407f3-cbfe-0b39-65f3-f76e4706debc >}}) |  {{< br >}}{{< br >}} This session will explain early experiments in Molecular Biology. Outlined are classic experiments by Avery, Griffith, Hershey, and Chase that demonstrated DNA was the hereditary material, background on Chargaff, Watson, Crick, and Franklin and how their discoveries contributed to the discovery of the structure of DNA, and details regarding how the semi-conservative model of DNA replication was shown by Meselson and Stahl. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To understand the basic outline of the Griffith, Avery, and Hershey/Chase experiments, and how these showed that DNA was the hereditary material._{{< br >}}*   _To understand the role Chargaff played in discovering the structure of DNA._{{< br >}}*   _To understand the roles Watson, Crick, and Franklin played in discovering the structure of DNA._{{< br >}}*   _To understand how the data obtained by Meselson and Stahl confirms the semi-conservative model of DNA replication._{{< br >}}*   _To draw a schematic of DNA that highlights the double-stranded nature, the polarity of each strand with respect to the other, and the base pairing between the strands._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Molecbio_sess1.jpg]({{< resource_file c7c407f3-cbfe-0b39-65f3-f76e4706debc >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will explain early experiments in Molecular Biology. Outlined are classic experiments by Avery, Griffith, Hershey, and Chase that demonstrated DNA was the hereditary material, background on Chargaff, Watson, Crick, and Franklin and how their discoveries contributed to the discovery of the structure of DNA, and details regarding how the semi-conservative model of DNA replication was shown by Meselson and Stahl.
+
+_Learning Objectives_
+
+*   _To understand the basic outline of the Griffith, Avery, and Hershey/Chase experiments, and how these showed that DNA was the hereditary material._
+*   _To understand the role Chargaff played in discovering the structure of DNA._
+*   _To understand the roles Watson, Crick, and Franklin played in discovering the structure of DNA._
+*   _To understand how the data obtained by Meselson and Stahl confirms the semi-conservative model of DNA replication._
+*   _To draw a schematic of DNA that highlights the double-stranded nature, the polarity of each strand with respect to the other, and the base pairing between the strands._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

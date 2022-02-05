@@ -11,7 +11,29 @@ uid: 744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7
 Session Overview
 ----------------
 
-| ![Biochem_sess2.jpg]({{< resource_file d13b1cdd-7486-4a60-afe8-3f6c4daae104 >}}) |  {{< br >}}{{< br >}} This session will introduce the structure of biological molecules and the molecular forces involved in the formation of these molecules. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To be able to identify the forces that act in biological systems: covalent bonds, ionic bonds, hydrogen bonds, van der Waal's forces, and hydrophobicity._{{< br >}}*   _To understand the properties of covalent bonds as well as the concepts of biological catalysts and chirality._{{< br >}}*   _To be able to distinguish between a polar and non-polar molecule and understand the concept of electronegativity._{{< br >}}*   _To be able to explain how hydrogen bonds are formed and describe their importance in biological systems._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Biochem_sess2.jpg]({{< resource_file d13b1cdd-7486-4a60-afe8-3f6c4daae104 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will introduce the structure of biological molecules and the molecular forces involved in the formation of these molecules.
+
+_Learning Objectives_
+
+*   _To be able to identify the forces that act in biological systems: covalent bonds, ionic bonds, hydrogen bonds, van der Waal's forces, and hydrophobicity._
+*   _To understand the properties of covalent bonds as well as the concepts of biological catalysts and chirality._
+*   _To be able to distinguish between a polar and non-polar molecule and understand the concept of electronegativity._
+*   _To be able to explain how hydrogen bonds are formed and describe their importance in biological systems._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

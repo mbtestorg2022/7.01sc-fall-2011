@@ -11,7 +11,30 @@ uid: 5d6487db-6d13-2ae2-f9e6-285a269f3404
 Session Overview
 ----------------
 
-| ![Molecbio_sess2.jpg]({{< resource_file a0185aa2-5536-af8f-c2bb-44ce5be2d53e >}}) |  {{< br >}}{{< br >}} This session will explain how DNA is replicated prior to cell division. In this process, DNA polymerase uses an original strand as a template to create a new daughter strand of DNA. Polymerization occurs in the 5' to 3' direction, creating a new strand that is anti-parallel to the original. Polymerization begins at a specific DNA sequence called the Origin of Replication and proceeds in two directions along both template strands. Because of the directionality of synthesis, one strand is synthesized continuously, while the other strand is synthesized in small fragments, which are then joined together by DNA ligase. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To understand the semi-conservative model of DNA replication_.{{< br >}}*   _To recognize the 5' and 3' ends of DNA and predict the direction in which replication will proceed_.{{< br >}}*   _To predict the sequence of a newly synthesized strand of DNA, based on the sequence of the original strand_.{{< br >}}*   _To identify the leading and lagging strands during replication._{{< br >}}*   _To understand the function of helicase and DNA ligase and explain why they are necessary_. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Molecbio_sess2.jpg]({{< resource_file a0185aa2-5536-af8f-c2bb-44ce5be2d53e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will explain how DNA is replicated prior to cell division. In this process, DNA polymerase uses an original strand as a template to create a new daughter strand of DNA. Polymerization occurs in the 5' to 3' direction, creating a new strand that is anti-parallel to the original. Polymerization begins at a specific DNA sequence called the Origin of Replication and proceeds in two directions along both template strands. Because of the directionality of synthesis, one strand is synthesized continuously, while the other strand is synthesized in small fragments, which are then joined together by DNA ligase.
+
+_Learning Objectives_
+
+*   _To understand the semi-conservative model of DNA replication_.
+*   _To recognize the 5' and 3' ends of DNA and predict the direction in which replication will proceed_.
+*   _To predict the sequence of a newly synthesized strand of DNA, based on the sequence of the original strand_.
+*   _To identify the leading and lagging strands during replication._
+*   _To understand the function of helicase and DNA ligase and explain why they are necessary_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

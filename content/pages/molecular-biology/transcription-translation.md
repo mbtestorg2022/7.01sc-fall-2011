@@ -11,7 +11,30 @@ uid: 5e1363df-9828-a8e6-52b1-b90916e83b46
 Session Overview
 ----------------
 
-| ![Molecbio_sess3.jpg]({{< resource_file b54d807c-b9e0-b9a7-1a1f-824fb10cef25 >}}) |  {{< br >}}{{< br >}} This session will explain how the cell uses its DNA instructions to make a RNA message, and the RNA message to make a protein. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _Outline the processes of transcription and translation._{{< br >}}*   _List the basic components needed to successfully undergo transcription and translation._{{< br >}}*   _Understand the purpose of the cell's performing transcription and translation._{{< br >}}*   _Predict RNA and protein sequences from a given gene._{{< br >}}*   _Analyze the effects of a DNA mutation on the RNA and protein produced from that DNA._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Molecbio_sess3.jpg]({{< resource_file b54d807c-b9e0-b9a7-1a1f-824fb10cef25 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will explain how the cell uses its DNA instructions to make a RNA message, and the RNA message to make a protein.
+
+_Learning Objectives_
+
+*   _Outline the processes of transcription and translation._
+*   _List the basic components needed to successfully undergo transcription and translation._
+*   _Understand the purpose of the cell's performing transcription and translation._
+*   _Predict RNA and protein sequences from a given gene._
+*   _Analyze the effects of a DNA mutation on the RNA and protein produced from that DNA._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,27 @@ uid: ea56404f-54a8-7d1d-4cf2-1c7a12786b51
 Session Overview
 ----------------
 
-| ![RecombDNA_sess4.jpg]({{< resource_file ffa253ed-15aa-5cb1-34cc-7e94d643b2cd >}}) |  {{< br >}}{{< br >}} This session will review how to make a recombinant cDNA library and how to use this library to find a specific gene. This session will outline the differences between a genomic and a cDNA library, and discuss how to use a cDNA library to clone a gene of interest. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To understand what a recombinant cDNA library is and how it is constructed._{{< br >}}*   _To understand how to use a cDNA library to identify a gene of interest by the protein made._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![RecombDNA_sess4.jpg]({{< resource_file ffa253ed-15aa-5cb1-34cc-7e94d643b2cd >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will review how to make a recombinant cDNA library and how to use this library to find a specific gene. This session will outline the differences between a genomic and a cDNA library, and discuss how to use a cDNA library to clone a gene of interest.
+
+_Learning Objectives_
+
+*   _To understand what a recombinant cDNA library is and how it is constructed._
+*   _To understand how to use a cDNA library to identify a gene of interest by the protein made._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,29 @@ uid: bc34ebcb-2d80-7a50-fe34-0b8778b4836e
 Session Overview
 ----------------
 
-| ![Biochem_sess1.jpg]({{< resource_file fc084a1d-efb5-9e2d-202c-fb8217f732be >}}) |  {{< br >}}{{< br >}} This session will introduce the course and cover the basics of cell composition. It will also introduce the different types of organisms and the basic differences between them. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To understand the differences between eukaryotic and prokaryotic cells._{{< br >}}*   _To be familiar with the different levels of organization of life._{{< br >}}*   _To be able to describe both the chemical and molecular composition of a cell._{{< br >}}*   _To be able to define the basic components of biological macromolecules._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Biochem_sess1.jpg]({{< resource_file fc084a1d-efb5-9e2d-202c-fb8217f732be >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will introduce the course and cover the basics of cell composition. It will also introduce the different types of organisms and the basic differences between them.
+
+_Learning Objectives_
+
+*   _To understand the differences between eukaryotic and prokaryotic cells._
+*   _To be familiar with the different levels of organization of life._
+*   _To be able to describe both the chemical and molecular composition of a cell._
+*   _To be able to define the basic components of biological macromolecules._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

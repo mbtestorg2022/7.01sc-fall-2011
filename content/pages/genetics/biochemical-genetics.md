@@ -11,7 +11,31 @@ uid: 4239d3cb-c2e6-6fa7-9750-7ed884c8c657
 Session Overview
 ----------------
 
-| ![Genetics_sess_4.jpg]({{< resource_file b2237ee4-2cab-9e06-b1b9-57daeb380a14 >}}) |  {{< br >}}{{< br >}} This session will explain how a collection of mutants with the same phenotype can be used to study a biochemical pathway. In effect, this session outlines how genetics can be used to study biochemistry. It includes a discussion of yeast as a model system. It outlines how to identify mutants with mutations in the same pathway, how to characterize the mutants into complementation groups, and how to use epistasis tests to infer details about a biochemical pathway. {{< br >}}{{< br >}} _Learning Objectives_ {{< br >}}{{< br >}} *   _To be familiar with the life cycle of yeast_.{{< br >}}*   _To understand the difference between a genetic screen and a genetic selection_.{{< br >}}*   _To understand why mutants with mutations in different genes can have the same phenotype_.{{< br >}}*   _To understand what a test of dominance is and why it is performed._{{< br >}}*   _To understand what a test of complementation is and why it is performed_.{{< br >}}*   _To understand what a test of epistasis is and why it is performed._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Genetics_sess_4.jpg]({{< resource_file b2237ee4-2cab-9e06-b1b9-57daeb380a14 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will explain how a collection of mutants with the same phenotype can be used to study a biochemical pathway. In effect, this session outlines how genetics can be used to study biochemistry. It includes a discussion of yeast as a model system. It outlines how to identify mutants with mutations in the same pathway, how to characterize the mutants into complementation groups, and how to use epistasis tests to infer details about a biochemical pathway.
+
+_Learning Objectives_
+
+*   _To be familiar with the life cycle of yeast_.
+*   _To understand the difference between a genetic screen and a genetic selection_.
+*   _To understand why mutants with mutations in different genes can have the same phenotype_.
+*   _To understand what a test of dominance is and why it is performed._
+*   _To understand what a test of complementation is and why it is performed_.
+*   _To understand what a test of epistasis is and why it is performed._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
