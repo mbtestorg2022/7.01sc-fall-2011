@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 94075d21-fac8-2243-1255-482464d464cb
 resourcetype: Image
 title: Tyler_Jacks.jpg
 uid: ef37ee44-7ab5-c07a-fdb5-16306c932791

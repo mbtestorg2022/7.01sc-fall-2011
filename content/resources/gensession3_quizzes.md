@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d
 resourcetype: Image
 title: gensession3_quizzes.gif
 uid: 2550e3b6-eb2d-7737-c03c-6626fa4c3352

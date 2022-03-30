@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 94075d21-fac8-2243-1255-482464d464cb
 resourcetype: Image
 title: Michelle_Mischke.jpg
 uid: 58995f1c-9c7e-e330-3210-18ae262234c5

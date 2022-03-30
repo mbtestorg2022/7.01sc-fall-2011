@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 94075d21-fac8-2243-1255-482464d464cb
 resourcetype: Image
 title: Eric_Lander.jpg
 uid: ff8d4170-a018-445a-3950-b82ab9cf0639

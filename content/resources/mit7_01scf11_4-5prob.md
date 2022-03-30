@@ -4,6 +4,7 @@ description: This resource contains problem set related to agarose gel electroph
   DNA sequencing, PCR.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/a174da59653849f9aee3896e7acdaaad_MIT7_01SCF11_4.5prob.pdf
 file_type: application/pdf
+parent_uid: fba42aaa-936f-9894-51b5-9a8798c9d7a0
 resourcetype: Document
 title: MIT7_01SCF11_4.5prob.pdf
 uid: a174da59-6538-49f9-aee3-896e7acdaaad

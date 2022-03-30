@@ -16,7 +16,7 @@ Prerequisites
 
 There are no formal prerequisites for this course. At MIT, it is usually taken during the freshman (first) year.
 
-Prior to taking this course, you may want to review _[Pre-7.01 Getting up to Speed in Biology](/resources/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019)_, a self-paced course designed to help prepare students for their first college-level biology class.
+Prior to taking this course, you may want to review _[Pre-7.01 Getting up to Speed in Biology](/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019)_, a self-paced course designed to help prepare students for their first college-level biology class.
 
 Course Goals
 ------------

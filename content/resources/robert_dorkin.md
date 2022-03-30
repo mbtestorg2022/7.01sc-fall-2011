@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 31b32df7-381e-729e-4a9e-93597670dfd1
 resourcetype: Image
 title: robert_dorkin.jpg
 uid: bff69c56-6199-222c-f8fe-907f1b9fba75

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 06e0b88b-6715-9f8b-06c3-dbe3474bcaed
 resourcetype: Image
 title: Genetics_sess_2.jpg
 uid: 101e82a6-4d0a-1dfd-4ae0-49f232c0c86e

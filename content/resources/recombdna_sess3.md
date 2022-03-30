@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 52ce97d0-21cf-6f78-01e8-55ec0de2a3aa
 resourcetype: Image
 title: RecombDNA_sess3.jpg
 uid: 6452a408-ad97-66fd-0f23-f512cbfc2e8a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5e1363df-9828-a8e6-52b1-b90916e83b46
 resourcetype: Image
 title: Molecbio_sess3.jpg
 uid: b54d807c-b9e0-b9a7-1a1f-824fb10cef25

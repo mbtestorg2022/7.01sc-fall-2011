@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6de3012a-82fd-d2a9-25a8-3b85e01dba3d
 resourcetype: Image
 title: OCWmobiosession4_quizzes_clip_image002.png
 uid: a175624b-9d27-9a0b-9377-d039a0d4f4df

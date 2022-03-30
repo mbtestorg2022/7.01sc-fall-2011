@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: an illustration of the biochemical structures and molecules in a T cell
     receptor
+parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 resourcetype: Image
 title: Biochem_Unit_image.jpg
 uid: ccdb398a-9ee3-21f4-6aec-ad712971d832

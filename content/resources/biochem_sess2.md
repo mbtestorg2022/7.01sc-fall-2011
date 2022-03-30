@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7
 resourcetype: Image
 title: Biochem_sess2.jpg
 uid: d13b1cdd-7486-4a60-afe8-3f6c4daae104

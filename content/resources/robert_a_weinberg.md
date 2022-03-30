@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 94075d21-fac8-2243-1255-482464d464cb
 resourcetype: Image
 title: Robert_A_Weinberg.jpg
 uid: feac9fa8-3e86-0171-3448-2ffb7055b2d7
